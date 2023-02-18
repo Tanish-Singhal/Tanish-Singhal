@@ -1,5 +1,12 @@
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hello+there!!!..">
+  </a>
+</h1>
+
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Tanish Singhal</h1>
+
 <h3 align="center">An Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -19,10 +26,6 @@
 - 📫 How to reach me **tanishsinghal510@gmail.com**
 
 - ⚡ Fun fact **Coding can "power up" your Brain.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
