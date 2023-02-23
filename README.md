@@ -41,6 +41,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanish-singhal&show_icons=true&locale=en&layout=compact" alt="tanish-singhal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanish-singhal&show_icons=true&locale=en" alt="tanish-singhal" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-singhal&" alt="tanish-singhal" /></p>
