@@ -9,9 +9,9 @@
 
 <h3 align="center">An Tech Enthusiast and a Explorer always inclined towards learning with a positive mindset.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
+<img src="https://komarev.com/ghpvc/?username=tanish-singhal&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-singhal" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish-singhal&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-singhal" /> </p>
+<img style="display: flex; align-item: center;" align="right" alt="Monkey D Luffy" width="400" src="https://i.pinimg.com/originals/5a/50/5a/5a505a6560fe5d773a1846c76f43ce77.gif">
 
 - 🔭 I’m currently working on **Full stack Web Development**
 
@@ -37,15 +37,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,c,cpp,css,express,git,github,html,js,linux,md,materialui,mongodb,mysql,nextjs,nodejs,notion,npm,postgres,powershell,prisma,py,react,replit,sass,stackoverflow,supabase,tailwind,ts,ubuntu,vercel,vite,vscode,wordpress,windows,webflow,sublime,redux,postman,figma" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=powershell,linux,ubuntu,git,bash,github,md,replit,sublime,vscode,c,cpp,py,wordpress,webflow,figma,html,css,bootstrap,materialui,tailwind,sass,js,ts,nodejs,npm,vite,react,redux,nextjs,vercel,express,postman,mongodb,mysql,postgres,prisma,supabase,notion,stackoverflow,windows" />
 </p>
 
-
-
+<h3 align="left">Some Stats: </h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanish-singhal&show_icons=true&locale=en&layout=compact" alt="tanish-singhal" /></p>
-
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanish-singhal&" alt="tanish-singhal" /></p>
