@@ -1,5 +1,5 @@
 <h1>
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?color=62F7F3&size=25&lines=Hello+there!!!..">
   </a>
 </h1>
@@ -36,9 +36,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/tanishsinghal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="tanishsinghal1" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  /></a>
-  <a href="https://twitter.com/TanishSing44334" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="TanishSing44334" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tanishsinghal1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="tanishsinghal1" height="30" width="40" /></a>
+  <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" /></a>
+  <a href="https://twitter.com/TanishSing44334" target="_blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="TanishSing44334" height="30" width="40" /></a>
   <a href="mailto:tanishsinghal510@gmail.com" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
