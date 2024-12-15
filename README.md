@@ -50,7 +50,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,md,wordpress,figma,html,css,js,ts,bootstrap,materialui,tailwind,nodejs,npm,vite,react,redux,nextjs,vercel,express,postman,mongodb,mysql,postgres,prisma,supabase,cloudflare,notion" />
+    <img src="https://skillicons.dev/icons?i=git,github,md,wordpress,figma,html,css,js,ts,bootstrap,materialui,tailwind,vite,react,redux,nextjs,vercel,netlify,nodejs,npm,express,postman,mongodb,mysql,postgres,prisma,supabase,docker,cloudflare,workers,notion" />
 </p>
 
 <h3 align="left">Some Stats: </h3>
